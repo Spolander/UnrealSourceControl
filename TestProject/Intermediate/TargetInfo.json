@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TestProject",
-			"Path": "C:\\Projects\\UnrealSourceControl\\TestProject\\Source\\TestProject.Target.cs",
+			"Path": "D:\\UnrealSourceControl\\TestProject\\Source\\TestProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TestProjectEditor",
-			"Path": "C:\\Projects\\UnrealSourceControl\\TestProject\\Source\\TestProjectEditor.Target.cs",
+			"Path": "D:\\UnrealSourceControl\\TestProject\\Source\\TestProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
