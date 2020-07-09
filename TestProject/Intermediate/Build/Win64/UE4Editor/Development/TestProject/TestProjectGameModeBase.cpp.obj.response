@@ -230,8 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject
-/I C:\Projects\UnrealSourceControl\TestProject\Source
+/I D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject
+/I D:\UnrealSourceControl\TestProject\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Projects\UnrealSourceControl\TestProject\Source\TestProject\TestProjectGameModeBase.cpp"
-/FI"C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\Definitions.TestProject.h"
-/Fo"C:\Projects\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\TestProjectGameModeBase.cpp.obj"
+/FI"D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\UnrealSourceControl\TestProject\Source\TestProject\TestProjectGameModeBase.cpp"
+/FI"D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\Definitions.TestProject.h"
+/Fo"D:\UnrealSourceControl\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\TestProjectGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
