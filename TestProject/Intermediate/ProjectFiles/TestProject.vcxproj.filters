@@ -42,4 +42,14 @@
       <Filter>Source\TestProject</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TestProject\MyCharacter.h">
+      <Filter>Source\TestProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TestProject\MyCharacter.cpp">
+      <Filter>Source\TestProject</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
